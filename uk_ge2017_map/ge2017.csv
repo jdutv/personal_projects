@@ -1,0 +1,651 @@
+id,constituency,region,country,last_winner,majority_15,winner,change
+W07000049,Aberavon,Wales,Wales,Labour,33.13453669,Labour,Labour hold
+W07000058,Aberconwy,Wales,Wales,Conservative,13.2645615,Conservative,Conservative hold
+S14000001,Aberdeen North,Scotland,Scotland,SNP,30.48980335,SNP,SNP hold
+S14000002,Aberdeen South,Scotland,Scotland,SNP,14.89155733,Conservative,Conservative gain from SNP
+S14000058,Aberdeenshire West & Kincardine,Scotland,Scotland,SNP,12.74186535,Conservative,Conservative gain from SNP
+S14000003,Airdrie & Shotts,Scotland,Scotland,SNP,19.82342049,SNP,SNP hold
+E14000530,Aldershot,South East,England,Conservative,32.25953108,Conservative,Conservative hold
+E14000531,Aldridge-Brownhills,West Midlands,England,Conservative,29.68073525,Conservative,Conservative hold
+E14000532,Altrincham & Sale West,North West,England,Conservative,26.30797553,Conservative,Conservative hold
+W07000043,Alyn & Deeside,Wales,Wales,Labour,8.091688048,Labour,Labour hold
+E14000533,Amber Valley,East Midlands,England,Conservative,9.197891375,Conservative,Conservative hold
+S14000004,Angus,Scotland,Scotland,SNP,25.24446443,Conservative,Conservative gain from SNP
+N06000005,Antrim East,Northern Ireland,Northern Ireland,DUP,17.30005672,DUP,DUP hold
+N06000012,Antrim North,Northern Ireland,Northern Ireland,DUP,27.55148305,DUP,DUP hold
+N06000014,Antrim South,Northern Ireland,Northern Ireland,UUP,2.598362676,DUP,DUP gain from UUP
+W07000057,Arfon,Wales,Wales,PC,13.66769758,PC,PC hold
+S14000005,Argyll & Bute,Scotland,Scotland,SNP,16.33097546,SNP,SNP hold
+E14000534,Arundel & South Downs,South East,England,Conservative,46.34984153,Conservative,Conservative hold
+E14000535,Ashfield,East Midlands,England,Labour,18.60406252,Labour,Labour hold
+E14000536,Ashford,South East,England,Conservative,33.63313114,,
+E14000537,Ashton Under Lyne,North West,England,Labour,27.637597,Labour,Labour hold
+E14000538,Aylesbury,South East,England,Conservative,30.96050091,Conservative,Conservative hold
+S14000006,"Ayr, Carrick & Cumnock",Scotland,Scotland,SNP,21.57673964,Conservative,Conservative gain from SNP
+S14000010,Ayrshire Central,Scotland,Scotland,SNP,26.76369796,SNP,SNP hold
+S14000048,Ayrshire North & Arran,Scotland,Scotland,SNP,25.19630957,SNP,SNP hold
+E14000539,Banbury,South East,England,Conservative,31.71114329,Conservative,Conservative hold
+S14000007,Banff & Buchan,Scotland,Scotland,SNP,31.42519012,Conservative,Conservative gain from SNP
+E14000540,Barking,London,England,Labour,35.48244697,Labour,Labour hold
+E14000541,Barnsley Central,Yorkshire and The Humber,England,Labour,34.01258206,,
+E14000542,Barnsley East,Yorkshire and The Humber,England,Labour,31.24334709,Labour,Labour hold
+E14000543,Barrow & Furness,North West,England,Labour,1.837088388,Labour,Labour hold
+E14000544,Basildon & Billericay,East,England,Conservative,29.00901738,Conservative,Conservative hold
+E14000933,Basildon South & Thurrock East,East,England,Conservative,16.86881758,Conservative,Conservative hold
+E14000545,Basingstoke,South East,England,Conservative,20.84369583,Conservative,Conservative hold
+E14000546,Bassetlaw,East Midlands,England,Labour,17.94112277,Labour,Labour hold
+E14000547,Bath,South West,England,Conservative,8.126444336,LibDem,LibDem gain from Conservative
+E14000548,Batley & Spen,Yorkshire and The Humber,England,Labour,11.99904911,Labour,Labour hold
+E14000549,Battersea,London,England,Conservative,15.55525073,Labour,Labour gain from Conservative
+E14000550,Beaconsfield,South East,England,Conservative,49.49118748,Conservative,Conservative hold
+E14000551,Beckenham,London,England,Conservative,37.84808311,Conservative,Conservative hold
+E14000552,Bedford,East,England,Conservative,2.380332422,Labour,Labour gain from Conservative
+E14000813,Bedfordshire Mid,East,England,Conservative,40.17740269,Conservative,Labour gain from Conservative
+E14000841,Bedfordshire North East,East,England,Conservative,43.70739024,Conservative,Conservative hold
+E14000949,Bedfordshire South West,East,England,Conservative,34.72048963,Conservative,Labour gain from Conservative
+N06000001,Belfast East,Northern Ireland,Northern Ireland,DUP,6.544529006,DUP,DUP hold
+N06000002,Belfast North,Northern Ireland,Northern Ireland,DUP,13.12048875,DUP,DUP hold
+N06000003,Belfast South,Northern Ireland,Northern Ireland,SDLP,2.325641091,DUP,DUP gain from SDLP
+N06000004,Belfast West,Northern Ireland,Northern Ireland,SF,33.30974553,SF,SF hold
+E14000553,Bermondsey & Old Southwark,London,England,Labour,8.729387057,Labour,Labour hold
+E14000554,Berwick-Upon-Tweed,North East,England,Conservative,12.15644559,,
+S14000008,"Berwickshire, Roxburgh & Selkirk",Scotland,Scotland,SNP,0.595951888,Conservative,Conservative gain from SNP
+E14000555,Bethnal Green & Bow,London,England,Labour,45.94701837,Labour,Labour hold
+E14000556,Beverley & Holderness,Yorkshire and The Humber,England,Conservative,23.16570799,Conservative,Conservative hold
+E14000557,Bexhill & Battle,South East,England,Conservative,36.35589844,Conservative,Conservative hold
+E14000558,Bexleyheath & Crayford,London,England,Conservative,21.04154744,Conservative,Conservative hold
+E14000559,Birkenhead,North West,England,Labour,52.75904353,Labour,Labour hold
+E14000560,Birmingham Edgbaston,West Midlands,England,Labour,6.553168818,Labour,Labour hold
+E14000561,Birmingham Erdington,West Midlands,England,Labour,14.78779841,Labour,Labour hold
+E14000562,Birmingham Hall Green,West Midlands,England,Labour,42.12472899,Labour,Labour hold
+E14000563,Birmingham Hodge Hill,West Midlands,England,Labour,56.92633836,Labour,Labour hold
+E14000564,Birmingham Ladywood,West Midlands,England,Labour,60.88651297,Labour,Labour hold
+E14000565,Birmingham Northfield,West Midlands,England,Labour,5.908951744,Labour,Labour hold
+E14000566,Birmingham Perry Barr,West Midlands,England,Labour,35.93795444,Labour,Labour hold
+E14000567,Birmingham Selly Oak,West Midlands,England,Labour,18.64926922,Labour,Labour hold
+E14000568,Birmingham Yardley,West Midlands,England,Labour,16.02634201,Labour,Labour hold
+E14000569,Bishop Auckland,North East,England,Labour,8.906039757,Labour,Labour hold
+E14000570,Blackburn,North West,England,Labour,29.00065911,Labour,Labour hold
+E14000571,Blackley & Broughton,North West,England,Labour,45.46777323,Labour,Labour hold
+E14000572,Blackpool North & Cleveleys,North West,England,Conservative,8.478663722,Conservative,Conservative hold
+E14000573,Blackpool South,North West,England,Labour,7.969540017,Labour,Labour hold
+W07000072,Blaenau Gwent,Wales,Wales,Labour,40.09405675,Labour,Labour hold
+E14000574,Blaydon,North East,England,Labour,31.66058394,Labour,Labour hold
+E14000575,Blyth Valley,North East,England,Labour,23.99573594,Labour,Labour hold
+E14000576,Bognor Regis & Littlehampton,South East,England,Conservative,29.59504202,Conservative,Conservative hold
+E14000577,Bolsover,East Midlands,England,Labour,26.76939861,Labour,Labour hold
+E14000578,Bolton North East,North West,England,Labour,10.1410996,Labour,Labour hold
+E14000579,Bolton South East,North West,England,Labour,26.82178534,Labour,Labour hold
+E14000580,Bolton West,North West,England,Conservative,1.648419493,Conservative,Conservative hold
+E14000581,Bootle,North West,England,Labour,63.5719348,Labour,Labour hold
+E14000582,Boston & Skegness,East Midlands,England,Conservative,10.00484552,Conservative,Conservative hold
+E14000583,Bosworth,East Midlands,England,Conservative,20.50688664,Conservative,Conservative hold
+E14000584,Bournemouth East,South West,England,Conservative,32.59642626,Conservative,Conservative hold
+E14000585,Bournemouth West,South West,England,Conservative,29.70818471,Conservative,Conservative hold
+E14000586,Bracknell,South East,England,Conservative,38.89914478,Conservative,Conservative hold
+E14000587,Bradford East,Yorkshire and The Humber,England,Labour,17.1086316,Labour,Labour hold
+E14000588,Bradford South,Yorkshire and The Humber,England,Labour,17.15425532,Labour,Labour hold
+E14000589,Bradford West,Yorkshire and The Humber,England,Labour,28.10126582,Labour,Labour hold
+E14000590,Braintree,East,England,Conservative,35.02177674,Conservative,Conservative hold
+W07000068,Brecon & Radnorshire,Wales,Wales,Conservative,12.73144682,Conservative,Conservative hold
+E14000591,Brent Central,London,England,Labour,41.77793842,Labour,Labour hold
+E14000592,Brent North,London,England,Labour,20.74088255,Labour,Labour hold
+E14000593,Brentford & Isleworth,London,England,Labour,0.810740127,Labour,Labour hold
+E14000594,Brentwood & Ongar,East,England,Conservative,42.02555061,Conservative,Conservative hold
+W07000073,Bridgend,Wales,Wales,Labour,4.884292703,Labour,Labour hold
+E14000595,Bridgwater & Somerset West,South West,England,Conservative,26.78384484,Conservative,Conservative hold
+E14000596,Brigg & Goole,Yorkshire and The Humber,England,Conservative,25.8285186,Conservative,Conservative hold
+E14000597,Brighton Kemptown,South East,England,Conservative,1.522977089,Labour,Labour gain from Conservative
+E14000598,Brighton Pavilion,South East,England,Green,14.57129271,Green,Green hold
+E14000599,Bristol East,South West,England,Labour,8.612295242,Labour,Labour hold
+E14000600,Bristol North West,South West,England,Conservative,9.543480359,,
+E14000601,Bristol South,South West,England,Labour,14.0199048,Labour,Labour hold
+E14000602,Bristol West,South West,England,Labour,8.833971784,Labour,Labour hold
+E14000603,Broadland,East,England,Conservative,31.71655145,Conservative,Conservative hold
+E14000604,Bromley & Chislehurst,London,England,Conservative,30.78110108,Conservative,Conservative hold
+E14000605,Bromsgrove,West Midlands,England,Conservative,31.63747727,Conservative,Conservative hold
+E14000606,Broxbourne,East,England,Conservative,36.33539023,Conservative,Conservative hold
+E14000607,Broxtowe,East Midlands,England,Conservative,8.022080838,Conservative,Conservative hold
+E14000608,Buckingham,South East,England,Ind,42.72889816,Ind,Ind hold
+E14000609,Burnley,North West,England,Labour,8.161827605,Labour,Labour hold
+E14000610,Burton,West Midlands,England,Conservative,22.24037244,Conservative,Conservative hold
+E14000611,Bury North,North West,England,Conservative,0.835728499,Labour,Labour gain from Conservative
+E14000612,Bury South,North West,England,Labour,10.42465318,Labour,Labour hold
+E14000613,Bury St Edmunds,East,England,Conservative,35.89592356,Conservative,Conservative hold
+W07000076,Caerphilly,Wales,Wales,Labour,25.00558548,Labour,Labour hold
+S14000009,"Caithness, Sutherland & Easter Ross",Scotland,Scotland,SNP,11.24436904,LibDem,LibDem gain from SNP
+E14000614,Calder Valley,Yorkshire and The Humber,England,Conservative,8.268429801,Conservative,Conservative hold
+E14000615,Camberwell & Peckham,London,England,Labour,50.08436609,Labour,Labour hold
+E14000616,Camborne & Redruth,South West,England,Conservative,15.26990494,Conservative,Conservative hold
+E14000617,Cambridge,East,England,Labour,1.156951366,Labour,Labour hold
+E14000842,Cambridgeshire North East,East,England,Conservative,32.58787177,Conservative,Conservative hold
+E14000855,Cambridgeshire North West,East,England,Conservative,32.39770867,Conservative,Conservative hold
+E14000934,Cambridgeshire South,East,England,Conservative,33.46441339,Conservative,Labour hold
+E14000937,Cambridgeshire South East,East,England,Conservative,28.29462575,Conservative,Conservative hold
+E14000618,Cannock Chase,West Midlands,England,Conservative,10.45245122,Conservative,Conservative hold
+E14000619,Canterbury,South East,England,Conservative,18.32600767,Labour,Labour gain from Conservative
+W07000050,Cardiff Central,Wales,Wales,Labour,12.88878539,Labour,Labour hold
+W07000051,Cardiff North,Wales,Wales,Conservative,4.177826435,Labour,Labour gain from Conservative
+W07000080,Cardiff South & Penarth,Wales,Wales,Labour,15.97060021,Labour,Labour hold
+W07000079,Cardiff West,Wales,Wales,Labour,15.50283157,Labour,Labour hold
+E14000620,Carlisle,North West,England,Conservative,6.513724846,Conservative,Conservative hold
+W07000067,Carmarthen East & Dinefwr,Wales,Wales,PC,14.21102058,PC,PC hold
+W07000066,Carmarthen West & Pembrokeshire South,Wales,Wales,Conservative,15.00371747,Conservative,Conservative hold
+E14000621,Carshalton & Wallington,London,England,LibDem,3.171402768,LibDem,LibDem hold
+E14000622,Castle Point,East,England,Conservative,19.65676568,Conservative,Conservative hold
+W07000064,Ceredigion,Wales,Wales,LibDem,8.197028009,,
+E14000625,Charnwood,East Midlands,England,Conservative,32.39700733,Conservative,Conservative hold
+E14000626,Chatham & Aylesford,South East,England,Conservative,26.59438627,Conservative,Conservative hold
+E14000627,Cheadle,North West,England,Conservative,12.15368679,Conservative,Conservative hold
+E14000628,Chelmsford,East,England,Conservative,33.91121765,Conservative,Conservative hold
+E14000629,Chelsea & Fulham,London,England,Conservative,39.82996072,Conservative,Conservative hold
+E14000630,Cheltenham,South West,England,Conservative,12.12617475,Conservative,Conservative hold
+E14000631,Chesham & Amersham,South East,England,Conservative,45.36317087,Conservative,Conservative hold
+E14000640,"Chester, City Of",North West,England,Labour,0.18177909,Labour,Labour hold
+E14000632,Chesterfield,East Midlands,England,Labour,29.84177146,Labour,Labour hold
+E14000633,Chichester,South East,England,Conservative,42.72563398,Conservative,Conservative hold
+E14000634,Chingford & Woodford Green,London,England,Conservative,19.14437038,Conservative,Conservative hold
+E14000635,Chippenham,South West,England,Conservative,18.18542783,Conservative,Conservative hold
+E14000636,Chipping Barnet,London,England,Conservative,14.44174071,Conservative,Conservative hold
+E14000637,Chorley,North West,England,Labour,8.760055693,Labour,Labour hold
+E14000638,Christchurch,South West,England,Conservative,36.66284427,Conservative,Conservative hold
+E14000639,Cities Of London & Westminster,London,England,Conservative,26.72654415,Conservative,Conservative hold
+E14000642,Clacton,East,England,UKIP,7.774786798,Conservative,Conservative gain from UKIP
+E14000643,Cleethorpes,Yorkshire and The Humber,England,Conservative,17.50537825,Conservative,Conservative hold
+W07000062,Clwyd South,Wales,Wales,Labour,6.850330824,Labour,Labour hold
+W07000059,Clwyd West,Wales,Wales,Conservative,17.69748606,Conservative,Conservative hold
+S14000011,"Coatbridge, Chryston & Bellshill",Scotland,Scotland,SNP,22.68531303,Labour,Labour gain from SNP
+E14000644,Colchester,East,England,Conservative,11.47284588,Conservative,Conservative hold
+E14000645,Colne Valley,Yorkshire and The Humber,England,Conservative,9.468309859,Labour,Labour gain from Conservative
+E14000646,Congleton,North West,England,Conservative,32.9037194,Conservative,Conservative hold
+E14000647,Copeland,North West,England,Labour,6.469682824,Conservative,Conservative gain from Labour
+E14000648,Corby,East Midlands,England,Conservative,4.293801403,Conservative,Conservative hold
+E14000837,Cornwall North,South West,England,Conservative,13.72370194,,
+E14000938,Cornwall South East,South West,England,Conservative,33.65479821,,
+E14000991,"Cotswolds, The",South West,England,Conservative,37.90036529,Conservative,Conservative hold
+E14000649,Coventry North East,West Midlands,England,Labour,29.06395776,Labour,Labour hold
+E14000650,Coventry North West,West Midlands,England,Labour,9.965521814,Labour,Labour hold
+E14000651,Coventry South,West Midlands,England,Labour,7.29536145,Labour,Labour hold
+E14000652,Crawley,South East,England,Conservative,13.44181256,,
+E14000653,Crewe & Nantwich,North West,England,Conservative,7.255090588,,
+E14000654,Croydon Central,London,England,Conservative,0.311667706,Labour,Labour gain from Conservative
+E14000655,Croydon North,London,England,Labour,39.9162961,Labour,Labour hold
+E14000656,Croydon South,London,England,Conservative,29.69919601,Conservative,Conservative hold
+S14000012,"Cumbernauld, Kilsyth & Kirkintilloch East",Scotland,Scotland,SNP,29.87323316,SNP,SNP hold
+W07000070,Cynon Valley,Wales,Wales,Labour,30.86768181,Labour,Labour hold
+E14000657,Dagenham & Rainham,London,England,Labour,11.56794425,Labour,Labour hold
+E14000658,Darlington,North East,England,Labour,7.676040932,Labour,Labour hold
+E14000659,Dartford,South East,England,Conservative,23.55107024,Conservative,Conservative hold
+E14000660,Daventry,East Midlands,England,Conservative,40.09863285,Conservative,Conservative hold
+W07000042,Delyn,Wales,Wales,Labour,7.822302907,Labour,Labour hold
+E14000661,Denton & Reddish,North West,England,Labour,27.17354774,Labour,Labour hold
+E14000662,Derby North,East Midlands,England,Conservative,0.09163035,Labour,Labour gain from Conservative
+E14000663,Derby South,East Midlands,England,Labour,21.6266536,Labour,Labour hold
+E14000664,Derbyshire Dales,East Midlands,England,Conservative,29.6530901,Conservative,Conservative hold
+E14000814,Derbyshire Mid,East Midlands,England,Conservative,26.76360284,Conservative,Conservative hold
+E14000843,Derbyshire North East,East Midlands,England,Labour,3.927171102,Conservative,Conservative gain from Labour
+E14000935,Derbyshire South,East Midlands,England,Conservative,22.59761239,Conservative,Conservative hold
+E14000665,Devizes,South West,England,Conservative,42.34379464,,
+E14000623,Devon Central,South West,England,Conservative,39.05561269,Conservative,Conservative hold
+E14000678,Devon East,South West,England,Conservative,22.40802676,Conservative,Conservative hold
+E14000838,Devon North,South West,England,Conservative,13.25688073,Conservative,Conservative hold
+E14000950,Devon South West,South West,England,Conservative,39.92098785,Conservative,Conservative hold
+E14001000,Devon West & Torridge,South West,England,Conservative,32.52332815,Conservative,Conservative hold
+E14000666,Dewsbury,Yorkshire and The Humber,England,Labour,2.705575238,Labour,Labour hold
+E14000667,Don Valley,Yorkshire and The Humber,England,Labour,20.91277127,Labour,Labour hold
+E14000668,Doncaster Central,Yorkshire and The Humber,England,Labour,24.97031173,Labour,Labour hold
+E14000669,Doncaster North,Yorkshire and The Humber,England,Labour,29.82202982,Labour,Labour hold
+E14000815,Dorset Mid & Poole North,South West,England,Conservative,22.64564829,Conservative,Conservative hold
+E14000839,Dorset North,South West,England,Conservative,39.55792826,Conservative,Conservative hold
+E14000936,Dorset South,South West,England,Conservative,24.68053584,Conservative,Conservative hold
+E14001031,Dorset West,South West,England,Conservative,28.56991038,Conservative,Conservative hold
+E14000670,Dover,South East,England,Conservative,12.53185728,Conservative,Conservative hold
+N06000013,Down North,Northern Ireland,Northern Ireland,Ind,25.59879823,Ind,Ind hold
+N06000015,Down South,Northern Ireland,Northern Ireland,SDLP,13.79722229,SF,SF gain from SDLP
+E14000671,Dudley North,West Midlands,England,Labour,11.00494841,,
+E14000672,Dudley South,West Midlands,England,Conservative,11.17508506,Conservative,Conservative hold
+E14000673,Dulwich & West Norwood,London,England,Labour,31.3889646,Labour,Labour hold
+S14000013,Dumfries & Galloway,Scotland,Scotland,SNP,11.50842726,Conservative,Conservative gain from SNP
+S14000014,"Dumfriesshire, Clydesdale & Tweeddale",Scotland,Scotland,Conservative,1.530670963,Conservative,Conservative hold
+S14000018,Dunbartonshire East,Scotland,Scotland,SNP,3.949262816,LibDem,LibDem gain from SNP
+S14000059,Dunbartonshire West,Scotland,Scotland,SNP,27.70966543,SNP,SNP hold
+S14000015,Dundee East,Scotland,Scotland,SNP,39.76756252,SNP,SNP hold
+S14000016,Dundee West,Scotland,Scotland,SNP,38.22516438,SNP,SNP hold
+S14000017,Dunfermline & Fife West,Scotland,Scotland,SNP,18.52209698,SNP,SNP hold
+E14000641,"Durham, City Of",North East,England,Labour,25.0476253,Labour,Labour hold
+E14000840,Durham North,North East,England,Labour,33.98595128,Labour,Labour hold
+E14000856,Durham North West,North East,England,Labour,23.48545004,Labour,Labour hold
+W07000061,Dwyfor Meirionnydd,Wales,Wales,PC,18.19596721,PC,PC hold
+E14000674,Ealing Central & Acton,London,England,Labour,0.538373875,Labour,Labour hold
+E14000675,Ealing North,London,England,Labour,25.40919398,Labour,Labour hold
+E14000676,Ealing Southall,London,England,Labour,43.30463286,Labour,Labour hold
+E14000677,Easington,North East,England,Labour,42.28569778,,
+E14000679,East Ham,London,England,Labour,65.50392044,Labour,Labour hold
+S14000019,"East Kilbride, Strathaven & Lesmahagow",Scotland,Scotland,SNP,27.29975718,SNP,SNP hold
+S14000020,East Lothian,Scotland,Scotland,SNP,11.52777307,Labour,Labour gain from SNP
+E14000684,Eastbourne,South East,England,Conservative,1.38544994,LibDem,LibDem gain from Conservative
+E14000685,Eastleigh,South East,England,Conservative,16.47959643,Conservative,Conservative hold
+E14000686,Eddisbury,North West,England,Conservative,27.39905389,Conservative,Conservative hold
+S14000022,Edinburgh East,Scotland,Scotland,SNP,19.3378496,SNP,SNP hold
+S14000023,Edinburgh North & Leith,Scotland,Scotland,SNP,9.648669149,SNP,SNP hold
+S14000024,Edinburgh South,Scotland,Scotland,Labour,5.350403766,Labour,Labour hold
+S14000025,Edinburgh South West,Scotland,Scotland,SNP,15.76489283,SNP,SNP hold
+S14000026,Edinburgh West,Scotland,Scotland,SNP,5.851471071,LibDem,LibDem gain from SNP
+E14000687,Edmonton,London,England,Labour,37.29982099,Labour,Labour hold
+E14000688,Ellesmere Port & Neston,North West,England,Labour,13.42906671,Labour,Labour hold
+E14000689,Elmet & Rothwell,Yorkshire and The Humber,England,Conservative,14.68934374,Conservative,Conservative hold
+E14000690,Eltham,London,England,Labour,6.240007415,Labour,Labour hold
+E14000691,Enfield North,London,England,Labour,2.353859159,Labour,Labour hold
+E14000692,Enfield Southgate,London,England,Conservative,10.37501091,Labour,Labour gain from Conservative
+E14000693,Epping Forest,East,England,Conservative,36.43106104,Conservative,Conservative hold
+E14000694,Epsom & Ewell,South East,England,Conservative,42.77514306,Conservative,Conservative hold
+E14000695,Erewash,East Midlands,England,Conservative,7.416911552,Conservative,Conservative hold
+E14000696,Erith & Thamesmead,London,England,Labour,22.35023582,Labour,Labour hold
+E14000697,Esher & Walton,South East,England,Conservative,50.224656,Conservative,Conservative hold
+E14000698,Exeter,South West,England,Labour,13.29741938,Labour,Labour hold
+S14000028,Falkirk,Scotland,Scotland,SNP,32.64998343,SNP,SNP hold
+E14000699,Fareham,South East,England,Conservative,40.69835466,Conservative,Conservative hold
+E14000700,Faversham & Kent Mid,South East,England,Conservative,36.35569723,Conservative,Conservative hold
+E14000701,Feltham & Heston,London,England,Labour,23.20210505,Labour,Labour hold
+N06000007,Fermanagh & South Tyrone,Northern Ireland,Northern Ireland,UUP,1.041994338,SF,SF gain from UUP
+S14000049,Fife North East,Scotland,Scotland,SNP,9.597242781,,
+E14000702,Filton & Bradley Stoke,South West,England,Conservative,20.03625181,Conservative,Conservative hold
+E14000703,Finchley & Golders Green,London,England,Conservative,11.15467208,Conservative,Conservative hold
+E14000704,Folkestone & Hythe,South East,England,Conservative,25.08089438,Conservative,Conservative hold
+E14000705,Forest Of Dean,South West,England,Conservative,22.18699515,Conservative,Conservative hold
+N06000008,Foyle,Northern Ireland,Northern Ireland,SDLP,16.33965732,SF,SF gain from SDLP
+E14000706,Fylde,North West,England,Conservative,30.36021765,Conservative,Conservative hold
+E14000707,Gainsborough,East Midlands,England,Conservative,31.36152331,Conservative,Conservative hold
+E14000708,Garston & Halewood,North West,England,Labour,55.41922708,Labour,Labour hold
+E14000709,Gateshead,North East,England,Labour,38.95754829,Labour,Labour hold
+E14000710,Gedling,East Midlands,England,Labour,6.221092546,Labour,Labour hold
+E14000711,Gillingham & Rainham,South East,England,Conservative,22.36713539,Conservative,Conservative hold
+S14000029,Glasgow Central,Scotland,Scotland,SNP,19.48725774,SNP,SNP hold
+S14000030,Glasgow East,Scotland,Scotland,SNP,24.48782328,SNP,SNP hold
+S14000031,Glasgow North,Scotland,Scotland,SNP,25.1746926,SNP,SNP hold
+S14000032,Glasgow North East,Scotland,Scotland,SNP,24.36009192,Labour,SNP hold
+S14000033,Glasgow North West,Scotland,Scotland,SNP,23.63296393,SNP,SNP hold
+S14000034,Glasgow South,Scotland,Scotland,SNP,25.15273279,SNP,SNP hold
+S14000035,Glasgow South West,Scotland,Scotland,SNP,24.31514381,SNP,SNP hold
+S14000036,Glenrothes,Scotland,Scotland,SNP,29.1966049,SNP,SNP hold
+E14000712,Gloucester,South West,England,Conservative,13.79172611,Conservative,Conservative hold
+S14000037,Gordon,Scotland,Scotland,SNP,14.93612558,Conservative,Conservative gain from SNP
+E14000713,Gosport,South East,England,Conservative,35.87118431,Conservative,Conservative hold
+W07000046,Gower,Wales,Wales,Conservative,0.063146078,Labour,Labour gain from Conservative
+E14000714,Grantham & Stamford,East Midlands,England,Conservative,35.32508604,Conservative,Conservative hold
+E14000715,Gravesham,South East,England,Conservative,16.69359181,Conservative,Conservative hold
+E14000716,Great Grimsby,Yorkshire and The Humber,England,Labour,13.45942901,Labour,Labour hold
+E14000717,Great Yarmouth,East,England,Conservative,13.83885403,Conservative,Conservative hold
+E14000718,Greenwich & Woolwich,London,England,Labour,25.57153866,Labour,Labour hold
+E14000719,Guildford,South East,England,Conservative,41.58115067,Conservative,Conservative hold
+E14000720,Hackney North & Stoke Newington,London,England,Labour,48.12476196,Labour,Labour hold
+E14000721,Hackney South & Shoreditch,London,England,Labour,50.889029,Labour,Labour hold
+E14000722,Halesowen & Rowley Regis,West Midlands,England,Conservative,7.033639144,Conservative,Conservative hold
+E14000723,Halifax,Yorkshire and The Humber,England,Labour,0.978218636,Labour,Labour hold
+E14000724,Haltemprice & Howden,Yorkshire and The Humber,England,Conservative,33.21574338,Conservative,Conservative hold
+E14000725,Halton,North West,England,Labour,45.05474979,Labour,Labour hold
+E14000726,Hammersmith,London,England,Labour,13.59049208,Labour,Labour hold
+E14000680,Hampshire East,South East,England,Conservative,48.68826115,Conservative,Conservative hold
+E14000844,Hampshire North East,South East,England,Conservative,55.4,Conservative,Conservative hold
+E14000857,Hampshire North West,South East,England,Conservative,43.37892925,Conservative,Conservative hold
+E14000727,Hampstead & Kilburn,London,England,Labour,2.108813283,Labour,Labour hold
+E14000728,Harborough,East Midlands,England,Conservative,37.41495302,Conservative,Conservative hold
+E14000729,Harlow,East,England,Conservative,18.86963006,Conservative,Conservative hold
+E14000730,Harrogate & Knaresborough,Yorkshire and The Humber,England,Conservative,30.67108813,Conservative,Conservative hold
+E14000731,Harrow East,London,England,Conservative,9.708163265,Conservative,Conservative hold
+E14000732,Harrow West,London,England,Labour,4.73789241,Labour,Labour hold
+E14000733,Hartlepool,North East,England,Labour,7.657634844,Labour,Labour hold
+E14000734,Harwich & Essex North,East,England,Conservative,31.33052527,Conservative,Conservative hold
+E14000735,Hastings & Rye,South East,England,Conservative,9.417401378,Conservative,Conservative hold
+E14000736,Havant,South East,England,Conservative,31.05202106,Conservative,Conservative hold
+E14000737,Hayes & Harlington,London,England,Labour,34.84552557,Labour,Labour hold
+E14000738,Hazel Grove,North West,England,Conservative,15.15999907,Conservative,Conservative hold
+E14000739,Hemel Hempstead,East,England,Conservative,29.05325086,Conservative,Conservative hold
+E14000740,Hemsworth,Yorkshire and The Humber,England,Labour,28.48181861,Labour,Labour hold
+E14000741,Hendon,London,England,Conservative,7.503526093,Conservative,Conservative hold
+E14000742,Henley,South East,England,Conservative,45.93924252,Conservative,Conservative hold
+E14000743,Hereford & Herefordshire South,West Midlands,England,Conservative,35.74073682,Conservative,Conservative hold
+E14000847,Herefordshire North,West Midlands,England,Conservative,41.63838161,Conservative,Conservative hold
+E14000744,Hertford & Stortford,East,England,Conservative,38.21987668,Conservative,Conservative hold
+E14000845,Hertfordshire North East,East,England,Conservative,36.49090596,Conservative,Conservative hold
+E14000951,Hertfordshire South West,East,England,Conservative,40.62199871,Conservative,Conservative hold
+E14000745,Hertsmere,East,England,Conservative,36.85492404,Conservative,Conservative hold
+E14000746,Hexham,North East,England,Conservative,27.75637328,Conservative,Conservative hold
+E14000747,Heywood & Middleton,North West,England,Labour,10.9172195,Labour,Labour hold
+E14000748,High Peak,East Midlands,England,Conservative,9.635944791,Labour,Labour gain from Conservative
+E14000749,Hitchin & Harpenden,East,England,Conservative,36.21670429,Conservative,Conservative hold
+E14000750,Holborn & St Pancras,London,England,Labour,31.04321066,Labour,Labour hold
+E14000751,Hornchurch & Upminster,London,England,Conservative,23.66934608,Conservative,Conservative hold
+E14000752,Hornsey & Wood Green,London,England,Labour,19.1364541,Labour,Labour hold
+E14000753,Horsham,South East,England,Conservative,43.31664471,Conservative,Conservative hold
+E14000754,Houghton & Sunderland South,North East,England,Labour,33.61479903,Labour,Labour hold
+E14000755,Hove,South East,England,Labour,2.367181216,Labour,Labour hold
+E14000756,Huddersfield,Yorkshire and The Humber,England,Labour,18.14565937,Labour,Labour hold
+E14000771,Hull East,Yorkshire and The Humber,England,Labour,29.36205327,Labour,Labour hold
+E14000772,Hull North,Yorkshire and The Humber,England,Labour,36.50384877,Labour,Labour hold
+E14000773,Hull West & Hessle,Yorkshire and The Humber,England,Labour,29.34628809,Labour,Labour hold
+E14000757,Huntingdon,East,England,Conservative,34.69343966,Conservative,Conservative hold
+E14000758,Hyndburn,North West,England,Labour,10.2595192,Labour,Labour hold
+E14000759,Ilford North,London,England,Labour,1.203711273,Labour,Labour hold
+E14000760,Ilford South,London,England,Labour,38.09716443,Labour,Labour hold
+S14000038,Inverclyde,Scotland,Scotland,SNP,24.8010402,SNP,SNP hold
+S14000039,"Inverness, Nairn, Badenoch & Strathspey",Scotland,Scotland,SNP,18.76139066,SNP,SNP hold
+E14000761,Ipswich,East,England,Conservative,7.666242248,Labour,Labour gain from Conservative
+E14000762,Isle Of Wight,South East,England,Conservative,19.49217639,Conservative,Conservative hold
+E14000763,Islington North,London,England,Labour,43.04748751,Labour,Labour hold
+E14000764,Islington South & Finsbury,London,England,Labour,28.70566975,Labour,Labour hold
+W07000077,Islwyn,Wales,Wales,Labour,29.38900031,Labour,Labour hold
+E14000765,Jarrow,North East,England,Labour,35.99471009,Labour,Labour hold
+E14000766,Keighley,Yorkshire and The Humber,England,Conservative,6.215011298,Labour,Labour gain from Conservative
+E14000767,Kenilworth & Southam,West Midlands,England,Conservative,43.04482384,Conservative,Conservative hold
+E14000768,Kensington,London,England,Conservative,21.13529344,,
+E14000769,Kettering,East Midlands,England,Conservative,26.66356051,Conservative,Conservative hold
+S14000040,Kilmarnock & Loudoun,Scotland,Scotland,SNP,25.30100365,SNP,SNP hold
+E14000770,Kingston & Surbiton,London,England,Conservative,4.782880192,LibDem,LibDem gain from Conservative
+E14000774,Kingswood,South West,England,Conservative,18.71376623,Conservative,Conservative hold
+S14000041,Kirkcaldy & Cowdenbeath,Scotland,Scotland,SNP,18.85729411,Labour,Labour gain from SNP
+E14000775,Knowsley,North West,England,Labour,68.31532881,Labour,Labour hold
+N06000009,Lagan Valley,Northern Ireland,Northern Ireland,DUP,32.66742053,DUP,DUP hold
+S14000042,Lanark & Hamilton East,Scotland,Scotland,SNP,18.27789641,SNP,SNP hold
+E14001033,Lancashire West,North West,England,Labour,16.82905226,Labour,Labour hold
+E14000776,Lancaster & Fleetwood,North West,England,Labour,3.030811251,Labour,Labour hold
+E14000777,Leeds Central,Yorkshire and The Humber,England,Labour,37.66426922,Labour,Labour hold
+E14000778,Leeds East,Yorkshire and The Humber,England,Labour,32.81233637,Labour,Labour hold
+E14000779,Leeds North East,Yorkshire and The Humber,England,Labour,15.01314945,Labour,Labour hold
+E14000780,Leeds North West,Yorkshire and The Humber,England,LibDem,6.704799686,Labour,Labour gain from LibDem
+E14000781,Leeds West,Yorkshire and The Humber,England,Labour,27.91817401,Labour,Labour hold
+E14000782,Leicester East,East Midlands,England,Labour,38.17924607,Labour,Labour hold
+E14000783,Leicester South,East Midlands,England,Labour,38.84245353,Labour,Labour hold
+E14000784,Leicester West,East Midlands,England,Labour,20.86495568,Labour,Labour hold
+E14000858,Leicestershire North West,East Midlands,England,Conservative,22.06293164,Conservative,Conservative hold
+E14000940,Leicestershire South,East Midlands,England,Conservative,31.19830879,Conservative,Conservative hold
+E14000785,Leigh,North West,England,Labour,31.23905769,Labour,Labour hold
+E14000786,Lewes,South East,England,Conservative,2.142857143,Conservative,Conservative hold
+E14000789,Lewisham Deptford,London,England,Labour,45.36751993,Labour,Labour hold
+E14000787,Lewisham East,London,England,Labour,33.39235375,Labour,Labour hold
+E14000788,Lewisham West & Penge,London,England,Labour,26.4187013,Labour,Labour hold
+E14000790,Leyton & Wanstead,London,England,Labour,36.64840429,Labour,Labour hold
+E14000791,Lichfield,West Midlands,England,Conservative,35.34109235,Conservative,Conservative hold
+E14000792,Lincoln,East Midlands,England,Conservative,3.07991121,Labour,Labour gain from Conservative
+S14000043,Linlithgow & Falkirk East,Scotland,Scotland,SNP,20.99777587,SNP,SNP hold
+E14000793,Liverpool Riverside,North West,England,Labour,55.26737908,Labour,Labour hold
+E14000794,Liverpool Walton,North West,England,Labour,72.3302867,Labour,Labour hold
+E14000795,Liverpool Wavertree,North West,England,Labour,59.31322302,Labour,Labour hold
+E14000796,Liverpool West Derby,North West,England,Labour,66.69835003,Labour,Labour hold
+S14000044,Livingston,Scotland,Scotland,SNP,29.2682503,SNP,SNP hold
+W07000045,Llanelli,Wales,Wales,Labour,18.39321823,Labour,Labour hold
+N06000006,Londonderry East,Northern Ireland,Northern Ireland,DUP,22.48084346,DUP,DUP hold
+E14000797,Loughborough,East Midlands,England,Conservative,17.65282584,Conservative,Conservative hold
+E14000798,Louth & Horncastle,East Midlands,England,Conservative,29.75405277,Conservative,Conservative hold
+E14000799,Ludlow,West Midlands,England,Conservative,39.38372553,Conservative,Conservative hold
+E14000800,Luton North,East,England,Labour,22.32505696,Labour,Labour hold
+E14000801,Luton South,East,England,Labour,13.52804624,Labour,Labour hold
+E14000802,Macclesfield,North West,England,Conservative,29.86209121,Conservative,Conservative hold
+E14000803,Maidenhead,South East,England,Conservative,53.95784978,Conservative,Conservative hold
+E14000804,Maidstone & The Weald,South East,England,Conservative,21.41371726,Conservative,Conservative hold
+E14000805,Makerfield,North West,England,Labour,29.37170671,Labour,Labour hold
+E14000806,Maldon,East,England,Conservative,45.93610157,Conservative,Conservative hold
+E14000807,Manchester Central,North West,England,Labour,47.73554521,Labour,Labour hold
+E14000808,Manchester Gorton,North West,England,Labour,57.30502868,Labour,Labour hold
+E14000809,Manchester Withington,North West,England,Labour,29.76624104,Labour,Labour hold
+E14000810,Mansfield,East Midlands,England,Labour,11.26226347,Conservative,Conservative gain from Labour
+E14000811,Meon Valley,South East,England,Conservative,46.23818087,Conservative,Conservative hold
+E14000812,Meriden,West Midlands,England,Conservative,35.72990134,Conservative,Conservative hold
+W07000071,Merthyr Tydfil & Rhymney,Wales,Wales,Labour,35.19180804,Labour,Labour hold
+E14000819,Middlesbrough,North East,England,Labour,38.14896349,Labour,Labour hold
+E14000820,Middlesbrough South & Cleveland East,North East,England,Labour,4.965299823,Conservative,Conservative gain from Labour
+S14000045,Midlothian,Scotland,Scotland,SNP,20.39891581,Labour,Labour gain from SNP
+E14000821,Milton Keynes North,South East,England,Conservative,16.90529016,Conservative,Conservative hold
+E14000822,Milton Keynes South,South East,England,Conservative,14.71102139,Conservative,Conservative hold
+E14000823,Mitcham & Morden,London,England,Labour,37.4861548,Labour,Labour hold
+E14000824,Mole Valley,South East,England,Conservative,46.1606819,Conservative,Conservative hold
+W07000054,Monmouth,Wales,Wales,Conservative,23.13851081,Conservative,Conservative hold
+W07000063,Montgomeryshire,Wales,Wales,Conservative,15.77450603,Conservative,Conservative hold
+S14000046,Moray,Scotland,Scotland,SNP,18.39488636,Conservative,Conservative gain from SNP
+E14000825,Morecambe & Lunesdale,North West,England,Conservative,10.61468017,Conservative,Conservative hold
+E14000826,Morley & Outwood,Yorkshire and The Humber,England,Conservative,0.874611399,Conservative,Conservative hold
+S14000047,Motherwell & Wishaw,Scotland,Scotland,SNP,24.66571304,SNP,SNP hold
+S14000027,Na H-Eileanan An Iar,Scotland,Scotland,SNP,25.73723177,SNP,SNP hold
+W07000069,Neath,Wales,Wales,Labour,25.71159284,Labour,Labour hold
+E14000827,New Forest East,South East,England,Conservative,38.7526038,Conservative,Conservative hold
+E14000828,New Forest West,South East,England,Conservative,43.45918583,Conservative,Conservative hold
+E14000829,Newark,East Midlands,England,Conservative,35.32178502,Conservative,Conservative hold
+E14000830,Newbury,South East,England,Conservative,46.01745201,Conservative,Conservative hold
+E14000834,Newcastle-Under-Lyme,West Midlands,England,Labour,1.511733377,,
+E14000831,Newcastle Upon Tyne Central,North East,England,Labour,36.12084937,Labour,Labour hold
+E14000832,Newcastle Upon Tyne East,North East,England,Labour,31.85457141,Labour,Labour hold
+E14000833,Newcastle Upon Tyne North,North East,England,Labour,22.61700564,Labour,Labour hold
+W07000055,Newport East,Wales,Wales,Labour,13.40150393,Labour,Labour hold
+W07000056,Newport West,Wales,Wales,Labour,8.699531564,Labour,Labour hold
+N06000011,Newry & Armagh,Northern Ireland,Northern Ireland,SF,8.372596588,SF,SF hold
+E14000835,Newton Abbot,South West,England,Conservative,23.281454,Conservative,Conservative hold
+E14000816,Norfolk Mid,East,England,Conservative,33.08817896,Conservative,Conservative hold
+E14000848,Norfolk North,East,England,LibDem,8.181891772,LibDem,LibDem hold
+E14000859,Norfolk North West,East,England,Conservative,29.44417471,Conservative,LibDem hold
+E14000941,Norfolk South,East,England,Conservative,35.87521664,Conservative,Conservative hold
+E14000952,Norfolk South West,East,England,Conservative,27.66114548,Conservative,Conservative hold
+E14000836,"Normanton, Pontefract & Castleford",Yorkshire and The Humber,England,Labour,33.61439746,Labour,Labour hold
+E14000861,Northampton North,East Midlands,England,Conservative,8.233741849,Conservative,Conservative hold
+E14000862,Northampton South,East Midlands,England,Conservative,9.754654871,Conservative,Conservative hold
+E14000942,Northamptonshire South,East Midlands,England,Conservative,43.40310867,Conservative,Conservative hold
+E14000863,Norwich North,East,England,Conservative,10.23811709,Conservative,Conservative hold
+E14000864,Norwich South,East,England,Labour,15.79349194,Labour,Labour hold
+E14000865,Nottingham East,East Midlands,England,Labour,33.78113551,Labour,Labour hold
+E14000866,Nottingham North,East Midlands,England,Labour,33.55685709,Labour,Labour hold
+E14000867,Nottingham South,East Midlands,England,Labour,15.95766709,Labour,Labour hold
+E14000868,Nuneaton,West Midlands,England,Conservative,10.6712715,Conservative,Conservative hold
+S14000050,Ochil & Perthshire South,Scotland,Scotland,SNP,17.57011284,Conservative,Conservative gain from SNP
+W07000074,Ogmore,Wales,Wales,Labour,37.00141844,Labour,Labour hold
+E14000869,Old Bexley & Sidcup,London,England,Conservative,33.80465474,Conservative,Conservative hold
+E14000870,Oldham East & Saddleworth,North West,England,Labour,13.492795,Labour,Labour hold
+E14000871,Oldham West & Royton,North West,England,Labour,34.16556552,Labour,Labour hold
+S14000051,Orkney & Shetland,Scotland,Scotland,LibDem,3.59468497,LibDem,LibDem hold
+E14000872,Orpington,London,England,Conservative,40.74685919,Conservative,Conservative hold
+E14000873,Oxford East,South East,England,Labour,30.14460731,Labour,Labour hold
+E14000874,Oxford West & Abingdon,South East,England,Conservative,16.737995,LibDem,LibDem gain from Conservative
+S14000052,Paisley & Renfrewshire North,Scotland,Scotland,SNP,17.98581111,SNP,SNP hold
+S14000053,Paisley & Renfrewshire South,Scotland,Scotland,SNP,12.29611041,SNP,SNP hold
+E14000875,Pendle,North West,England,Conservative,12.26826854,Conservative,Conservative hold
+E14000876,Penistone & Stocksbridge,Yorkshire and The Humber,England,Labour,14.34882828,Labour,Labour hold
+E14000877,Penrith & The Border,North West,England,Conservative,45.29496141,Conservative,Conservative hold
+S14000054,Perth & Perthshire North,Scotland,Scotland,SNP,17.78782288,SNP,SNP hold
+E14000878,Peterborough,East,England,Conservative,4.089219331,Labour,Labour gain from Conservative
+E14000879,Plymouth Moor View,South West,England,Conservative,2.408111534,Conservative,Conservative hold
+E14000880,Plymouth Sutton & Devonport,South West,England,Conservative,1.090423868,Labour,Labour gain from Conservative
+W07000075,Pontypridd,Wales,Wales,Labour,23.71838868,,
+E14000881,Poole,South West,England,Conservative,33.31504653,,Conservative hold
+E14000882,Poplar & Limehouse,London,England,Labour,33.1557088,Labour,Labour hold
+E14000883,Portsmouth North,South East,England,Conservative,23.2143644,Conservative,Conservative hold
+E14000884,Portsmouth South,South East,England,Conservative,12.5074577,Labour,Labour gain from Conservative
+W07000065,Preseli Pembrokeshire,Wales,Wales,Conservative,12.2521945,Conservative,Conservative hold
+E14000885,Preston,North West,England,Labour,36.05425917,,
+E14000886,Pudsey,Yorkshire and The Humber,England,Conservative,8.838140868,Conservative,Conservative hold
+E14000887,Putney,London,England,Conservative,23.77782449,Conservative,Conservative hold
+E14000888,Rayleigh & Wickford,East,England,Conservative,32.37504697,Conservative,Conservative hold
+E14000889,Reading East,South East,England,Conservative,12.91242524,Labour,Labour gain from Conservative
+E14000890,Reading West,South East,England,Conservative,13.73853401,Conservative,Conservative hold
+E14000891,Redcar,North East,England,Labour,25.38673966,Labour,Labour hold
+E14000892,Redditch,West Midlands,England,Conservative,15.9961903,Conservative,Conservative hold
+E14000893,Reigate,South East,England,Conservative,43.49451791,Conservative,Conservative hold
+S14000021,Renfrewshire East,Scotland,Scotland,SNP,6.553851578,Conservative,Conservative gain from SNP
+W07000052,Rhondda,Wales,Wales,Labour,23.6381508,Labour,Labour hold
+E14000894,Ribble Valley,North West,England,Conservative,26.04368049,Conservative,Conservative hold
+E14000895,Richmond (Yorks),Yorkshire and The Humber,England,Conservative,36.20437416,,
+E14000896,Richmond Park,London,England,Conservative,38.94181148,,
+E14000897,Rochdale,North West,England,Labour,27.38718908,Labour,Labour hold
+E14000898,Rochester & Strood,South East,England,Conservative,13.58252723,Conservative,Conservative hold
+E14000899,Rochford & Southend East,East,England,Conservative,21.72995781,Conservative,Conservative hold
+E14000900,Romford,London,England,Conservative,28.18130058,Conservative,Conservative hold
+E14000901,Romsey & Southampton North,South East,England,Conservative,36.59655358,Conservative,Conservative hold
+S14000055,"Ross, Skye & Lochaber",Scotland,Scotland,SNP,12.25514817,SNP,SNP hold
+E14000902,Rossendale & Darwen,North West,England,Conservative,11.53312663,Conservative,Conservative hold
+E14000903,Rother Valley,Yorkshire and The Humber,England,Labour,15.51925817,Labour,Labour hold
+E14000904,Rotherham,Yorkshire and The Humber,England,Labour,22.33032811,Labour,Labour hold
+E14000905,Rugby,West Midlands,England,Conservative,21.10966004,Conservative,Conservative hold
+E14000906,"Ruislip, Northwood & Pinner",London,England,Conservative,39.48303463,Conservative,Conservative hold
+E14000907,Runnymede & Weybridge,South East,England,Conservative,44.22200911,Conservative,Conservative hold
+E14000908,Rushcliffe,East Midlands,England,Conservative,25.06888551,Conservative,Conservative hold
+S14000056,Rutherglen & Hamilton West,Scotland,Scotland,SNP,17.31319969,Labour,Labour gain from SNP
+E14000909,Rutland & Melton,East Midlands,England,Conservative,39.75056316,Conservative,Conservative hold
+E14000910,Saffron Walden,East,England,Conservative,43.41504091,Conservative,Conservative hold
+E14000960,St Albans,East,England,Conservative,23.39022284,Conservative,Conservative hold
+E14000961,St Austell & Newquay,South West,England,Conservative,16.22882786,,
+E14000962,St Helens North,North West,England,Labour,37.38109651,Labour,Labour hold
+E14000963,St Helens South & Whiston,North West,England,Labour,43.89321652,,
+E14000964,St Ives,South West,England,Conservative,5.110531545,,
+E14000911,Salford & Eccles,North West,England,Labour,28.98915883,Labour,Labour hold
+E14000912,Salisbury,South West,England,Conservative,40.2741347,Conservative,Conservative hold
+E14000913,Scarborough & Whitby,Yorkshire and The Humber,England,Conservative,12.98728503,Conservative,Conservative hold
+E14000914,Scunthorpe,Yorkshire and The Humber,England,Labour,8.483798489,Labour,Labour hold
+E14000915,Sedgefield,North East,England,Labour,17.67486311,Labour,Labour hold
+E14000916,Sefton Central,North West,England,Labour,24.16515371,,
+E14000917,Selby & Ainsty,Yorkshire and The Humber,England,Conservative,25.67419135,Conservative,Conservative hold
+E14000918,Sevenoaks,South East,England,Conservative,39.02521746,Conservative,Conservative hold
+E14000921,Sheffield Brightside & Hillsborough,Yorkshire and The Humber,England,Labour,34.47182483,Labour,Labour hold
+E14000919,Sheffield Central,Yorkshire and The Humber,England,Labour,39.18456976,Labour,Labour hold
+E14000922,Sheffield Hallam,Yorkshire and The Humber,England,LibDem,4.241091545,Labour,Labour gain from LibDem
+E14000923,Sheffield Heeley,Yorkshire and The Humber,England,Labour,30.8076484,Labour,Labour hold
+E14000920,Sheffield South East,Yorkshire and The Humber,England,Labour,29.5334053,Labour,Labour hold
+E14000924,Sherwood,East Midlands,England,Conservative,9.166042053,Conservative,Conservative hold
+E14000925,Shipley,Yorkshire and The Humber,England,Conservative,19.04158917,Conservative,Conservative hold
+E14000926,Shrewsbury & Atcham,West Midlands,England,Conservative,17.67956822,,
+E14000849,Shropshire North,West Midlands,England,Conservative,31.37351873,Conservative,Conservative hold
+E14000927,Sittingbourne & Sheppey,South East,England,Conservative,24.64255336,Conservative,Conservative hold
+E14000928,Skipton & Ripon,Yorkshire and The Humber,England,Conservative,38.05238366,Conservative,Conservative hold
+E14000929,Sleaford & North Hykeham,East Midlands,England,Conservative,38.93032416,Conservative,Conservative hold
+E14000930,Slough,South East,England,Labour,15.19627136,Labour,Labour hold
+E14000931,Solihull,West Midlands,England,Conservative,23.55282134,Conservative,Conservative hold
+E14000850,Somerset North,South West,England,Conservative,39.1893726,Conservative,Conservative hold
+E14000846,Somerset North East,South West,England,Conservative,24.94423792,Conservative,Conservative hold
+E14000932,Somerton & Frome,South West,England,Conservative,33.60692434,Conservative,Conservative hold
+E14000939,South Holland & The Deepings,East Midlands,England,Conservative,37.73243644,Conservative,Conservative hold
+E14000943,South Ribble,North West,England,Conservative,11.35191904,Conservative,Conservative hold
+E14000944,South Shields,North East,England,Labour,29.26788915,Labour,Labour hold
+E14000955,Southampton Itchen,South East,England,Conservative,5.180049206,Conservative,Conservative hold
+E14000956,Southampton Test,South East,England,Labour,8.728122423,Labour,Labour hold
+E14000957,Southend West,East,England,Conservative,31.50149408,Conservative,Conservative hold
+E14000958,Southport,North West,England,LibDem,2.997664452,Conservative,Conservative gain from LibDem
+E14000959,Spelthorne,South East,England,Conservative,28.83514334,Conservative,Conservative hold
+E14000965,Stafford,West Midlands,England,Conservative,18.81805319,Conservative,Conservative hold
+E14000966,Staffordshire Moorlands,West Midlands,England,Conservative,23.88991946,Conservative,Conservative hold
+E14000945,Staffordshire South,West Midlands,England,Conservative,41.07222065,Conservative,Conservative hold
+E14000967,Stalybridge & Hyde,North West,England,Labour,16.29380514,Labour,Labour hold
+E14000968,Stevenage,East,England,Conservative,10.36632566,Conservative,Conservative hold
+S14000057,Stirling,Scotland,Scotland,SNP,20.10165915,Conservative,Conservative gain from SNP
+E14000969,Stockport,North West,England,Labour,25.37516709,Labour,Labour hold
+E14000970,Stockton North,North East,England,Labour,21.14427232,Labour,Labour hold
+E14000971,Stockton South,North East,England,Conservative,9.741876943,Labour,Labour gain from Conservative
+E14000972,Stoke-On-Trent Central,West Midlands,England,Labour,16.66130485,Labour,Labour hold
+E14000973,Stoke-On-Trent North,West Midlands,England,Labour,12.51099498,Labour,Labour hold
+E14000974,Stoke-On-Trent South,West Midlands,England,Labour,6.492443808,Conservative,Conservative gain from Labour
+E14000975,Stone,West Midlands,England,Conservative,34.55167868,Conservative,Conservative hold
+E14000976,Stourbridge,West Midlands,England,Conservative,14.5430055,Conservative,Conservative hold
+N06000016,Strangford,Northern Ireland,Northern Ireland,DUP,30.02299257,DUP,DUP hold
+E14000977,Stratford-On-Avon,West Midlands,England,Conservative,44.45480868,Conservative,Conservative hold
+E14000978,Streatham,London,England,Labour,27.90539323,Labour,Labour hold
+E14000979,Stretford & Urmston,North West,England,Labour,25.19079032,Labour,Labour hold
+E14000980,Stroud,South West,England,Conservative,8.000789227,Labour,Labour gain from Conservative
+E14000624,Suffolk Central & Ipswich North,East,England,Conservative,37.24232284,Conservative,Conservative hold
+E14000981,Suffolk Coastal,East,England,Conservative,33.89214663,Conservative,Conservative hold
+E14000946,Suffolk South,East,England,Conservative,33.80083611,Conservative,Conservative hold
+E14001034,Suffolk West,East,England,Conservative,30.43548911,Conservative,Conservative hold
+E14000982,Sunderland Central,North East,England,Labour,26.76835401,Labour,Labour hold
+E14000681,Surrey East,South East,England,Conservative,40.3864321,Conservative,Conservative hold
+E14000983,Surrey Heath,South East,England,Conservative,45.56962025,Conservative,Conservative hold
+E14000953,Surrey South West,South East,England,Conservative,49.99387244,Conservative,Conservative hold
+E14000817,Sussex Mid,South East,England,Conservative,42.24239894,Conservative,Conservative hold
+E14000984,Sutton & Cheam,London,England,Conservative,7.856928164,Conservative,Conservative hold
+E14000985,Sutton Coldfield,West Midlands,England,Conservative,32.28261297,Conservative,Conservative hold
+W07000048,Swansea East,Wales,Wales,Labour,35.77845202,Labour,Labour hold
+W07000047,Swansea West,Wales,Wales,Labour,20.01365343,Labour,Labour hold
+E14000851,Swindon North,South West,England,Conservative,22.56039202,Conservative,Conservative hold
+E14000947,Swindon South,South West,England,Conservative,11.74309319,Conservative,Conservative hold
+E14000986,Tamworth,West Midlands,England,Conservative,23.95811252,Conservative,Conservative hold
+E14000987,Tatton,North West,England,Conservative,40.26888604,Conservative,Conservative hold
+E14000988,Taunton Deane,South West,England,Conservative,26.76075803,Conservative,Conservative hold
+E14000989,Telford,West Midlands,England,Conservative,1.796038873,Conservative,Conservative hold
+E14000990,Tewkesbury,South West,England,Conservative,39.70078057,Conservative,Conservative hold
+E14000852,Thanet North,South East,England,Conservative,23.26737934,Conservative,Conservative hold
+E14000948,Thanet South,South East,England,Conservative,5.692192466,Conservative,Conservative hold
+E14000993,Thirsk & Malton,Yorkshire and The Humber,England,Conservative,37.15458799,Conservative,Conservative hold
+E14000994,Thornbury & Yate,South West,England,Conservative,3.078031707,Conservative,Conservative hold
+E14000995,Thurrock,East,England,Conservative,1.08143007,,Conservative hold
+E14000996,Tiverton & Honiton,South West,England,Conservative,37.52208768,Conservative,Conservative hold
+E14000997,Tonbridge & Malling,South East,England,Conservative,44.22209801,Conservative,Conservative hold
+E14000998,Tooting,London,England,Labour,5.30927161,Labour,Labour hold
+E14000999,Torbay,South West,England,Conservative,6.834584746,Conservative,Conservative hold
+W07000053,Torfaen,Wales,Wales,Labour,21.53306798,Labour,Labour hold
+E14001001,Totnes,South West,England,Conservative,38.82412893,Conservative,Conservative hold
+E14001002,Tottenham,London,England,Labour,55.36914329,Labour,Labour hold
+E14001003,Truro & Falmouth,South West,England,Conservative,27.16126028,,
+E14001004,Tunbridge Wells,South East,England,Conservative,44.47771642,Conservative,Conservative hold
+E14001005,Twickenham,London,England,Conservative,3.253015934,LibDem,LibDem gain from Conservative
+E14001006,Tynemouth,North East,England,Labour,15.40330872,Labour,Labour hold
+E14000853,Tyneside North,North East,England,Labour,36.72519117,Labour,Labour hold
+N06000018,Tyrone West,Northern Ireland,Northern Ireland,SF,26.02576706,SF,SF hold
+N06000010,Ulster Mid,Northern Ireland,Northern Ireland,SF,33.27549973,SF,SF hold
+N06000017,Upper Bann,Northern Ireland,Northern Ireland,DUP,4.794680108,DUP,DUP hold
+E14001007,Uxbridge & Ruislip South,London,England,Conservative,23.86690768,Conservative,Conservative hold
+W07000060,Vale Of Clwyd,Wales,Wales,Conservative,0.672130683,Labour,Labour gain from Conservative
+W07000078,Vale Of Glamorgan,Wales,Wales,Conservative,13.4131363,Conservative,Conservative hold
+E14001008,Vauxhall,London,England,Labour,26.50758224,Labour,Labour hold
+E14001009,Wakefield,Yorkshire and The Humber,England,Labour,6.080562213,Labour,Labour hold
+E14001010,Wallasey,North West,England,Labour,37.69773555,Labour,Labour hold
+E14001011,Walsall North,West Midlands,England,Labour,5.251741995,Conservative,Conservative gain from Labour
+E14001012,Walsall South,West Midlands,England,Labour,14.35776089,Labour,Labour hold
+E14001013,Walthamstow,London,England,Labour,55.49574122,Labour,Labour hold
+E14001014,Wansbeck,North East,England,Labour,28.24179817,Labour,Labour hold
+E14001015,Wantage,South East,England,Conservative,37.29252401,Conservative,Conservative hold
+E14001016,Warley,West Midlands,England,Labour,38.86436332,Labour,Labour hold
+E14001017,Warrington North,North West,England,Labour,19.64596314,Labour,Labour hold
+E14001018,Warrington South,North West,England,Conservative,4.633295705,Labour,Labour gain from Conservative
+E14001019,Warwick & Leamington,West Midlands,England,Conservative,13.06024001,Conservative,Conservative hold
+E14000854,Warwickshire North,West Midlands,England,Conservative,6.275196825,Conservative,Conservative hold
+E14001020,Washington & Sunderland West,North East,England,Labour,35.31416915,Labour,Labour hold
+E14001021,Watford,East,England,Conservative,17.44287521,Conservative,Conservative hold
+E14001022,Waveney,East,England,Conservative,4.613380336,Conservative,Conservative hold
+E14001023,Wealden,South East,England,Conservative,40.28096883,Conservative,Conservative hold
+E14001024,Weaver Vale,North West,England,Conservative,1.719760172,Labour,Labour gain from Conservative
+E14001025,Wellingborough,East Midlands,England,Conservative,32.51437636,Conservative,Conservative hold
+E14001026,Wells,South West,England,Conservative,13.32946717,,Conservative hold
+E14001027,Welwyn Hatfield,East,England,Conservative,24.20675232,Conservative,Conservative hold
+E14001028,Wentworth & Dearne,Yorkshire and The Humber,England,Labour,32.04056588,Labour,Labour hold
+E14001029,West Bromwich East,West Midlands,England,Labour,25.25872186,Labour,Labour hold
+E14001030,West Bromwich West,West Midlands,England,Labour,22.1035802,Labour,Labour hold
+E14001032,West Ham,London,England,Labour,53.01081583,Labour,Labour hold
+E14001036,Westminster North,London,England,Labour,5.003289973,Labour,Labour hold
+E14001037,Westmorland & Lonsdale,North West,England,LibDem,18.28976681,LibDem,LibDem hold
+E14001038,Weston-Super-Mare,South West,England,Conservative,29.70200944,Conservative,Conservative hold
+E14001039,Wigan,North West,England,Labour,31.43090544,Labour,Labour hold
+E14000860,Wiltshire North,South West,England,Conservative,41.62908458,Conservative,Conservative hold
+E14000954,Wiltshire South West,South West,England,Conservative,35.17998567,Conservative,Conservative hold
+E14001040,Wimbledon,London,England,Conservative,26.06046838,Conservative,Conservative hold
+E14001041,Winchester,South East,England,Conservative,30.57704823,Conservative,Conservative hold
+E14001042,Windsor,South East,England,Conservative,50.00598086,Conservative,Conservative hold
+E14001043,Wirral South,North West,England,Labour,10.992662,Labour,Labour hold
+E14001044,Wirral West,North West,England,Labour,0.996225333,Labour,Labour hold
+E14001045,Witham,East,England,Conservative,41.45607191,Conservative,Conservative hold
+E14001046,Witney,South East,England,Conservative,43.01323484,Conservative,Conservative hold
+E14001047,Woking,South East,England,Conservative,40.04695558,Conservative,Conservative hold
+E14001048,Wokingham,South East,England,Conservative,43.20970017,Conservative,Conservative hold
+E14001049,Wolverhampton North East,West Midlands,England,Labour,16.16033879,Labour,Labour hold
+E14001050,Wolverhampton South East,West Midlands,England,Labour,31.00333679,Labour,Labour hold
+E14001051,Wolverhampton South West,West Midlands,England,Labour,1.992091323,Labour,Labour hold
+E14001052,Worcester,West Midlands,England,Conservative,11.35490618,Conservative,Conservative hold
+E14000818,Worcestershire Mid,West Midlands,England,Conservative,39.31450455,Conservative,Conservative hold
+E14001035,Worcestershire West,West Midlands,England,Conservative,41.73382625,Conservative,Conservative hold
+E14001053,Workington,North West,England,Labour,12.18313704,Labour,Labour hold
+E14001054,Worsley & Eccles South,North West,England,Labour,14.14098174,Labour,Labour hold
+E14000682,Worthing East & Shoreham,South East,England,Conservative,29.9591166,Conservative,Conservative hold
+E14001055,Worthing West,South East,England,Conservative,33.20331738,Conservative,Conservative hold
+E14000992,"Wrekin, The",West Midlands,England,Conservative,23.64372648,Conservative,Conservative hold
+W07000044,Wrexham,Wales,Wales,Labour,5.596136801,Labour,Labour hold
+E14001056,Wycombe,South East,England,Conservative,28.88081028,Conservative,Conservative hold
+E14001057,Wyre & Preston North,North West,England,Conservative,28.36269617,Conservative,Conservative hold
+E14001058,Wyre Forest,West Midlands,England,Conservative,26.03357605,Conservative,Conservative hold
+E14001059,Wythenshawe & Sale East,North West,England,Labour,24.4296512,Labour,Labour hold
+E14001060,Yeovil,South West,England,Conservative,9.33202185,Conservative,Conservative hold
+W07000041,Ynys Mon,Wales,Wales,Labour,0.655671992,Labour,Labour hold
+E14001061,York Central,Yorkshire and The Humber,England,Labour,14.08645678,Labour,Labour hold
+E14001062,York Outer,Yorkshire and The Humber,England,Conservative,24.35671484,Conservative,Conservative hold
+E14000683,Yorkshire East,Yorkshire and The Humber,England,Conservative,29.87137685,Conservative,Conservative hold

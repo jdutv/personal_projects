@@ -1,0 +1,29 @@
+party,bg_col,col
+Alliance,#F6CB2F,#000000
+Conservative,#0087DC,#FFFFFF
+DUP,#D46A4C,#FFFFFF
+Green,#6AB023,#FFFFFF
+Ind,#d9d9d9,#000000
+Labour,#DC241f,#FFFFFF
+LibDem,#FAA61A,#FFFFFF
+Other,#d9d9d9,#000000
+PC,#008142,#FFFFFF
+SDLP,#99FF66,#000000
+SF,#008800,#FFFFFF
+SNP,#FFFF00,#000000
+UKIP,#70147A,#FFFFFF
+UUP,#9999ff,#FFFFFF
+Projected Alliance,#fae085,#000000
+Projected Conservative,#99d8ff,#000000
+Projected DUP,#ebbaad,#000000
+Projected Green,#b3e67f,#000000
+Projected Ind,#e6e6e6,#000000
+Projected Labour,#f2a8a6,#000000
+Projected LibDem,#fdd99b,#000000
+Projected Other,#e6e6e6,#000000
+Projected PC,#66ffb5,#000000
+Projected SDLP,#ccffb3,#000000
+Projected SF,#4dff4d,#000000
+Projected SNP,#ffff99,#000000
+Projected UKIP,#d965e6,#FFFFFF
+Projected UUP,#ccccff,#000000
